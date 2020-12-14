@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **jhasan172089@bscse.uiu.ac.bd**
 
+- 📄 Know about my experiences [https://sites.google.com/view/jadir](https://sites.google.com/view/jadir)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jadirangkon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jadirangkon" height="30" width="40" /></a>
